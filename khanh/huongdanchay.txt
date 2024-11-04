@@ -1,0 +1,7 @@
+  tải file về rồi điều hướng tẻminal đến thư mục khanh
+
+  sau đó chạy lệnh dưới
+  
+  g++ -Ithuvien main.cpp ham\*.cpp -o main
+
+  rồi ấn enter - rồi ./main enter tiếp
